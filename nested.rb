@@ -135,5 +135,6 @@ def adding_to_dennis
         }
      }
      programmer_hash[:dennis_ritchie] = {:age => "27"}
+     programmer_hash
 
 end
